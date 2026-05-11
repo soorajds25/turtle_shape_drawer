@@ -711,6 +711,12 @@ Run node:
 ros2 run turtle_shape_project turtle_shape
 ```
 
+# Working Video
+
+<img width="800" height="365" alt="turtle_shape-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4e10bf3a-1452-43ea-8c99-24b93728c3a7" />
+
+
+
 ---
 
 # 17. Expected Output
@@ -741,6 +747,11 @@ To create:
 - Octagon
 
 etc.
+
+
+<img width="502" height="539" alt="Screenshot from 2026-05-11 14-14-51" src="https://github.com/user-attachments/assets/4f91fa2e-3e89-441f-9f1e-9189867b5466" />
+
+
 
 ---
 
@@ -799,6 +810,11 @@ Run:
 ```bash
 rqt_graph
 ```
+
+
+<img width="601" height="260" alt="turtle_shape_graph" src="https://github.com/user-attachments/assets/12c10a44-6f9f-4c31-8a92-0857d4cce927" />
+
+
 
 This visually shows:
 - Publishers
